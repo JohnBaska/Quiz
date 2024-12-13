@@ -1,0 +1,10 @@
+python -m django:
+    Teste de verificação de instalação do django 
+python -m django startpoject projectname: 
+    Para inicializar um novo projeto me django.
+python manage.py runserver:
+    Para colocar o site no ar
+python manage.py startapp appname:
+    Para um criar um novo app n para o seu projeto
+
+
