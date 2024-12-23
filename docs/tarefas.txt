@@ -1,0 +1,22 @@
+- Classe para manipular o banco de dados;
+    - Função para inicilizar o banco de dados;
+    - Função para executar comando de entrada de dados;
+    - Função para executar comandos de saída de dados;
+
+- Classe consultas para criar consultas gerais e comuns;
+    - Função para criar perguntas para o quiz;
+    - Função para pegar as perguntas que já foram cadastradas no quiz;
+
+- Classe Window para a janela principal
+    - Função para inicializar todas as variáveis da classe;
+    - Função para inicializar a janela principal;
+
+    # Frame Nova Pergunta
+    - Função para preencher o frame;
+    - Função para criar uma nova uma nova pergunta no banco de dados;
+    - Função para limpar os campos do frame;
+    
+    # Frame Quiz
+    - Função para inicilizar o frame;
+    - Função para mostrar as perguntas;
+    - Função para mostrar as respostas;

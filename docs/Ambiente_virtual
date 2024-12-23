@@ -1,0 +1,10 @@
+Ambiente virtual
+
+python -m venv .venv:
+    Para criar um ambiente virtual;
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
+    para poder executar o ambiente virtual;
+.\.venv\Scripts\activate:
+    para ativar o ambiente virtual;
+
+

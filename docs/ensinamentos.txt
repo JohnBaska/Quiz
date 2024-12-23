@@ -1,0 +1,1 @@
+- Todo o projeto novo feito deve ter um ambiente virtual diferente para que não haja conflito nas versões das bibliotecas usadas no projeto
